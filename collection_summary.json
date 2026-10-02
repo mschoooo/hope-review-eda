@@ -1,0 +1,15 @@
+{
+  "unique_reviews": 58659,
+  "naver_reported_total": 58659,
+  "naver_reported_actual_total": 8825,
+  "actual_viewer_reviews": 8825,
+  "other_reviews": 49834,
+  "spoiler_reviews": 3417,
+  "pages_collected": 949,
+  "failed": [],
+  "date_min": "2026.07.15. 09:00",
+  "date_max": "2026.10.01. 15:16",
+  "encoding": "UTF-8 BOM",
+  "csv_sha256": "e3034386c6224d7b9f08e90a80079703c4efe62994f7d51cf9aa7c4d8c142072",
+  "complete_by_count": true
+}
